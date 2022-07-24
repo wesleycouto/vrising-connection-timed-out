@@ -1,0 +1,21 @@
+{
+  "General": {},
+  "Sound": {},
+  "Interface": {
+    "Language": "Brazilian"
+  },
+  "GameClient": {
+    "HasSeenCinematic": true,
+    "HasCompletedFirstStartup": true
+  },
+  "GraphicSettings": {
+    "Resolution": {
+      "x": 1920,
+      "y": 1080
+    },
+    "FsrQualityMode": 0,
+    "BloomQuality": 2,
+    "CurrentPresetMode": 3,
+    "HighQualityVegetation": false
+  }
+}
